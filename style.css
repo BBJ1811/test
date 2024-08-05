@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box ;
+}
+div{
+    margin-top: 10px;
+}
+nav{
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+}
+.back{
+    background-color: #F7F7F7;
+    height: 200vh;
+}
+.dis{
+    margin-left: 100px;
+    display: flex;
+    gap: 50px;    
+    font-size: 15px;
+    font-weight: 500;
+}
+.text{
+    color: #ff6900;
+}
+.dat{
+    margin-left: 800px;
+    display: flex;
+    gap: 50px;    
+    font-size: 17px;
+    font-weight: 500;
+}
+.plant{
+    display: flex;
+}
+.mood{
+    align-items: center;
+    padding-top: 100px ;
+    font-weight: 600;
+    font-size: 30px;
+    margin-left: 40%;
+}
+.drop{
+    height: 20px;
+    width: 20px;
+    margin-top: 110px;
+    margin-left: 15px;
+}.d{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 30px 0px 0px -120px;
+    font-size: 13px;
+}
+.m{
+    color: #ff6900;
+}
+.another{
+    height: 600px;
+    width: 760px;
+    background-color: #ffffff;
+    margin:20px 0px 0px 20px;
+    display: inline-block;
+}
+.see{
+    justify-content: center;
+    margin: 0px 0px 0px 170px ;
+}
+.h2{
+    font-size: 30px;
+    font-weight: 600;
+}
+h4{
+    margin: 10px 0px 0px 100px;
+    font-size: 15px;
+    font-weight: 500;
+}
+button{
+    background-color: black;
+    height: 40px;
+    width: 120px;
+    border-radius: 13px;
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+    color: #ffffff;
+    margin: 80px 0px 0px 260px;
+}
+.my{
+    width: 270px;
+    height: 270px;
+    margin: 0px 0px -300px -200px;
+}
+.anothers{
+    height: 600px;
+    width: 760px;
+    background-color: #ffffff;
+    margin:20px 0px 0px 20px;
+    display: inline-block;
+}
+.sees{
+    justify-content: center;
+    margin: 0px 0px 0px 200px ;
+}
+.h3{
+    font-size: 30px;
+    font-weight: 600;
+}
